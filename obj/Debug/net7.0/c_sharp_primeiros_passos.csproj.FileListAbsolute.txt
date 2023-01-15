@@ -1,0 +1,15 @@
+D:\c_sharp_primeiros_passos\bin\Debug\net7.0\c_sharp_primeiros_passos.exe
+D:\c_sharp_primeiros_passos\bin\Debug\net7.0\c_sharp_primeiros_passos.deps.json
+D:\c_sharp_primeiros_passos\bin\Debug\net7.0\c_sharp_primeiros_passos.runtimeconfig.json
+D:\c_sharp_primeiros_passos\bin\Debug\net7.0\c_sharp_primeiros_passos.dll
+D:\c_sharp_primeiros_passos\bin\Debug\net7.0\c_sharp_primeiros_passos.pdb
+D:\c_sharp_primeiros_passos\obj\Debug\net7.0\c_sharp_primeiros_passos.csproj.AssemblyReference.cache
+D:\c_sharp_primeiros_passos\obj\Debug\net7.0\c_sharp_primeiros_passos.GeneratedMSBuildEditorConfig.editorconfig
+D:\c_sharp_primeiros_passos\obj\Debug\net7.0\c_sharp_primeiros_passos.AssemblyInfoInputs.cache
+D:\c_sharp_primeiros_passos\obj\Debug\net7.0\c_sharp_primeiros_passos.AssemblyInfo.cs
+D:\c_sharp_primeiros_passos\obj\Debug\net7.0\c_sharp_primeiros_passos.csproj.CoreCompileInputs.cache
+D:\c_sharp_primeiros_passos\obj\Debug\net7.0\c_sharp_primeiros_passos.dll
+D:\c_sharp_primeiros_passos\obj\Debug\net7.0\refint\c_sharp_primeiros_passos.dll
+D:\c_sharp_primeiros_passos\obj\Debug\net7.0\c_sharp_primeiros_passos.pdb
+D:\c_sharp_primeiros_passos\obj\Debug\net7.0\c_sharp_primeiros_passos.genruntimeconfig.cache
+D:\c_sharp_primeiros_passos\obj\Debug\net7.0\ref\c_sharp_primeiros_passos.dll
